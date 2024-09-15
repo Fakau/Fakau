@@ -3,7 +3,7 @@
 <h3 align="center">Certified Oracle Java Developer, curious and passionate, working in the professional market since 2017 in the field of information technology. He has demonstrated experience in project management as well as in development, documentation, coding, modification, testing, and implementation of business technology solutions in the sectors of gaming, restaurant, education, and healthcare.</h3>
 <br>
 <h3 align="left">Stack:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,gcp,aws,kafka,angular,html,css,kotlin,git,github,mongodb,mysql,firebase&perline=15)]()
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,gcp,aws,kafka,angular,html,css,kotlin,git,github,mongodb,mysql,firebase&perline=14)]()
  </p>
 <p align="left">
 
