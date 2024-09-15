@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Kafka M. Laurent</h2>
 
 <h3 align="center">Certified Oracle Java Developer, curious and passionate, working in the professional market since 2017 in the field of information technology. He has demonstrated experience in project management as well as in development, documentation, coding, modification, testing, and implementation of business technology solutions in the sectors of gaming, restaurant, education, and healthcare.</h3>
-
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,gcp,aws,kafka,angular,html,css,kotlin,git,github,mysql&perline=14)]()
+<br>
+<h3 align="left">Stack:</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,gcp,aws,kafka,angular,html,css,kotlin,git,github,mongodb,mysql,firebase&perline=15)]()
  </p>
 <p align="left">
 
